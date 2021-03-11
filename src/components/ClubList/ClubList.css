@@ -1,0 +1,19 @@
+.club-list{
+    width: 83%;
+    
+    margin:auto;
+   
+}
+ @media  (max-width: 600px) {
+    .club-list{
+        width: 66%;
+        
+        margin:auto;
+  }}
+
+
+
+ 
+    
+    
+

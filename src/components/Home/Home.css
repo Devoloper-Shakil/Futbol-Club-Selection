@@ -1,0 +1,16 @@
+.home-benar img{
+    width:83%;
+    margin-left: 120px;
+    height:300px;
+    margin-top:30px;
+    margin-bottom:30px;
+   }
+   @media (min-width: 576px) {
+    .home-benar img {
+        width: 90%;
+        margin-left: 66px;
+        height: 338px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+} }
+ 

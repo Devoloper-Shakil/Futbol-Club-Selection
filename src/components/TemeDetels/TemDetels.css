@@ -1,0 +1,35 @@
+.cad img{
+    width: 80%;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 299px;
+    border-radius: 4px;
+}
+.gender img{
+    width:100%;
+    margin-top: 10px;
+}
+.detels-container{
+    width: 72%;
+    background: red;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    color:wheat;
+    text-align: center;
+
+}
+.social a{
+    font-size: 29px;
+    margin-left: 6px;
+    color: wheat;
+}
+.teminfo{
+    width:75%;
+    margin: auto;
+}
+.league{
+    color:grey;
+}
